@@ -1,0 +1,2 @@
+# ak-am-lisesi
+kşam Liselerine; Ortaokul mezunları, Lise eğitimine hiç başlamayanlar, Lise eğitimini yarıda bırakanlar, Örgün eğitim hakkını (Lisede 2 sene üst üste sınıfta kalmak) kaybedenler ve Açık Lisede okuyanlar kayıt yaptırabilirler, Liseden mezun olabilir ve Üniversiteye gidebilirler. Akşam Liselerinde Yaş sınırlaması yoktur. Yukarıda ki şartları taşıyan her öğrenci yaşı kaç olursa olsun Akşam Liselerine kayıt yaptırabilirler
